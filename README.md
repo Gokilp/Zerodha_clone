@@ -11,44 +11,48 @@ colour Flipper
 6. [Contributing](#contributing)
 
 ## Description
-Color Flipper is a web application created using HTML, CSS, and JavaScript. It allows users to change the background color of the page by clicking a button. 
-The color changes randomly with each click, displaying the hex color code and updating the background accordingly..
+Color Flipper is a web application created using HTML, CSS, and JavaScript. It allows users to change the page's background colour by clicking a button. 
+The colour changes randomly with each click, displaying the hex colour code and updating the background accordingly..
 
 ## Features
 
 
-- **Random Color Generation**: Generates random hex color codes to create a wide range of background colors.
-- **Dynamic Background Change**: Updates the background color in real-time upon clicking the "Change Background" button.
-- **Hex Color Display**: Displays the generated hex color code for reference.
+- **Random Color Generation**: Generates random hex colour codes to create various background colours.
+- **Dynamic Background Change**: Updates the background colour in real-time upon clicking the "Change Background" button.
+- **Hex Color Display**: Displays the generated hex colour code for reference.
 
 
-Technologies Used
-- ** HTML: Provides the structure of the web page.
-- **CSS: Styles the elements on the page for a better user interface.
-- **JavaScript: Implements the functionality to change the background color randomly.
+## Technologies Used
 
-Project Structure
+- **HTML:** Provides the structure of the web page.
+- **CSS:** Styles the elements on the page for a better user interface.
+- **JavaScript:** Implements the functionality to change the background colour randomly.
 
-- **index.html: Contains the HTML structure of the web page.
-- **style.css: Includes styles for the web page elements.
-- **javascript.js: Implements the functionality to change the background color randomly.
+## Project Structure
+
+- `index.html`: Contains the HTML structure of the web page.
+- `style.css`: Includes styles for the web page elements.
+- `javascript.js`: Implements the functionality to change the background colour randomly.
 
 
 
 ## Demo
-Check out the live demo [here]().
+Check out the live demo [here](https://gokilp.github.io/Colour-Flipper/).
 
 
 
 
 ## Screenshots
- )
+
+![colorflipper](https://github.com/Gokilp/Zerodha_clone/assets/76507378/df719eae-e808-420d-8ae2-c6f0b113b774)
+
+
 
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git@github.com:Gokilp/Amazon_clone.git
+   git@github.com:Gokilp/Colour-Flipper.git
     ```
 2. Open the project in your preferred code editor.
 
