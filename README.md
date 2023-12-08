@@ -17,7 +17,7 @@ The color changes randomly with each click, displaying the hex color code and up
 ## Features
 
 
- **Random Color Generation**: Generates random hex color codes to create a wide range of background colors.
+- **Random Color Generation**: Generates random hex color codes to create a wide range of background colors.
 - **Dynamic Background Change**: Updates the background color in real-time upon clicking the "Change Background" button.
 - **Hex Color Display**: Displays the generated hex color code for reference.
 
