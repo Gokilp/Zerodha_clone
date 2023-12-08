@@ -5,9 +5,8 @@ colour Flipper
 ## Table of Contents
 1. [Description](#description)
 2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [Demo](#Demo)
-5. [screenshot](#screenshot)
+3. [Demo](#Demo)
+4. [Screenshots](#screenshots)
 6. [Installation](#installation)
 7. [Contributing](#contributing)
 
