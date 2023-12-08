@@ -22,6 +22,18 @@ The color changes randomly with each click, displaying the hex color code and up
 - **Hex Color Display**: Displays the generated hex color code for reference.
 
 
+Technologies Used
+- ** HTML: Provides the structure of the web page.
+- **CSS: Styles the elements on the page for a better user interface.
+- **JavaScript: Implements the functionality to change the background color randomly.
+
+Project Structure
+
+- **index.html: Contains the HTML structure of the web page.
+- **style.css: Includes styles for the web page elements.
+- **javascript.js: Implements the functionality to change the background color randomly.
+
+
 
 ## Demo
 Check out the live demo [here]().
