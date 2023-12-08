@@ -1,58 +1,36 @@
 # Project Title
 
-colour Flipper
+ Zerodha Landing page
 
 ## Table of Contents
 1. [Description](#description)
 2. [Features](#features)
 3. [Demo](#Demo)
-4. [Screenshots](#screenshots)
-6. [Installation](#installation)
-7. [Contributing](#contributing)
+4. [Screenshot](#screenshot)
+5. [Installation](#installation)
+6. [Contributing](#contributing)
 
+ 
 ## Description
-Color Flipper is a web application created using HTML, CSS, and JavaScript. It allows users to change the page's background colour by clicking a button. 
-The colour changes randomly with each click, displaying the hex colour code and updating the background accordingly..
+Table of Contents Description Demo Features Installation Contributing Zerodha Description This project demonstrates a web interface inspired by Zerodha, an online platform for investing in stocks, derivatives, mutual funds, and more. The provided HTML structure showcases a landing page with various sections resembling the Zerodha platform's design elements.
 
 ## Features
+Includes essential navigation links such as Signup, About, Product, Pricing, and Support. The navigation bar has a responsive design for mobile devices.
 
+Landing Page Image: A large image depicting an enticing view or message.
 
-- **Random Color Generation**: Generates random hex colour codes to create various background colours.
-- **Dynamic Background Change**: Updates the background colour in real-time upon clicking the "Change Background" button.
-- **Hex Color Display**: Displays the generated hex colour code for reference.
-
-
-## Technologies Used
-
-- **HTML:** Provides the structure of the web page.
-- **CSS:** Styles the elements on the page for a better user interface.
-- **JavaScript:** Implements the functionality to change the background colour randomly.
-
-## Project Structure
-
-- `index.html`: Contains the HTML structure of the web page.
-- `style.css`: Includes styles for the web page elements.
-- `javascript.js`: Implements the functionality to change the background colour randomly.
-
-
+Headings and Text: Sections with headings styled to draw attention and convey important messages.
 
 ## Demo
-Check out the live demo [here](https://gokilp.github.io/Colour-Flipper/).
+Check out the live demo [here](https://gokilp.github.io/Zerodha_clone/).
 
-
-
-
-## Screenshots
-
-![colorflipper](https://github.com/Gokilp/Zerodha_clone/assets/76507378/df719eae-e808-420d-8ae2-c6f0b113b774)
-
-
-
+## Sreenshots
+![zerodha gif](https://github.com/Gokilp/Zerodha_clone/assets/76507378/c533f943-741b-46a9-a5ff-8fcc301ea032)
 
 ## Installation
 1. Clone the repository:
     ```bash
-   git@github.com:Gokilp/Colour-Flipper.git
+    git@github.com:Gokilp/Zerodha_clone.git
     ```
 2. Open the project in your preferred code editor.
 
@@ -63,3 +41,6 @@ Contributions are welcome! If you find any issues or want to enhance the project
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/YourFeature`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
+
+
+
