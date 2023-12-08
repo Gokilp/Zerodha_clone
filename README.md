@@ -6,8 +6,9 @@
 1. [Description](#description)
 2. [Features](#features)
 3. [Demo](#Demo)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
+4. [Screenshot](#screenshot)
+5. [Installation](#installation)
+6. [Contributing](#contributing)
 
 ## Description
 
@@ -24,6 +25,10 @@ Signup Button: A call-to-action button styled with a background colour and round
 
 
 ## Demo
+Check out the live demo [here](https://gokilp.github.io/Zerodha_clone/).
+
+
+## Sreenshot
 
 
 ![zerodha gif](https://github.com/Gokilp/Zerodha_clone/assets/76507378/c533f943-741b-46a9-a5ff-8fcc301ea032)
