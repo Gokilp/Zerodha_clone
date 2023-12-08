@@ -7,8 +7,9 @@ colour Flipper
 2. [Features](#features)
 3. [Screenshots](#screenshots)
 4. [Demo](#Demo)
-5. [Installation](#installation)
-6. [Contributing](#contributing)
+5. [screenshot](#screenshot)
+6. [Installation](#installation)
+7. [Contributing](#contributing)
 
 ## Description
 Color Flipper is a web application created using HTML, CSS, and JavaScript. It allows users to change the page's background colour by clicking a button. 
