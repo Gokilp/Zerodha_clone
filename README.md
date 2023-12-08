@@ -1,44 +1,42 @@
 # Project Title
 
- Zerodha Landing page
+colour Flipper
 
 ## Table of Contents
 1. [Description](#description)
 2. [Features](#features)
-3. [Demo](#Demo)
-4. [Screenshot](#screenshot)
+3. [Screenshots](#screenshots)
+4. [Demo](#Demo)
 5. [Installation](#installation)
 6. [Contributing](#contributing)
 
 ## Description
-
-Table of Contents Description Demo Features Installation Contributing Zerodha Description This project demonstrates a web interface inspired by Zerodha, an online platform for investing in stocks, derivatives, mutual funds, and more. The provided HTML structure showcases a landing page with various sections resembling the Zerodha platform's design elements.
+Color Flipper is a web application created using HTML, CSS, and JavaScript. It allows users to change the background color of the page by clicking a button. 
+The color changes randomly with each click, displaying the hex color code and updating the background accordingly..
 
 ## Features
-Includes essential navigation links such as Signup, About, Product, Pricing, and Support. The navigation bar has a responsive design for mobile devices.
 
-Landing Page Image: A large image depicting an enticing view or message.
 
-Headings and Text: Sections with headings styled to draw attention and convey important messages.
+ **Random Color Generation**: Generates random hex color codes to create a wide range of background colors.
+- **Dynamic Background Change**: Updates the background color in real-time upon clicking the "Change Background" button.
+- **Hex Color Display**: Displays the generated hex color code for reference.
 
-Signup Button: A call-to-action button styled with a background colour and rounded corners, prompting users to sign up.
 
 
 ## Demo
-Check out the live demo [here](https://gokilp.github.io/Zerodha_clone/).
+Check out the live demo [here]().
 
 
-## Sreenshot
 
 
-![zerodha gif](https://github.com/Gokilp/Zerodha_clone/assets/76507378/c533f943-741b-46a9-a5ff-8fcc301ea032)
-
+## Screenshots
+ )
 
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git@github.com:Gokilp/Zerodha_clone.git
+    git@github.com:Gokilp/Amazon_clone.git
     ```
 2. Open the project in your preferred code editor.
 
@@ -49,4 +47,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/YourFeature`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
-
